@@ -82,7 +82,7 @@ The system provides two main analysis modes:
 
 ### Interface
 
-<img width="403" height="313" alt="image" src="https://github.com/user-attachments/assets/97df190b-120b-4db3-b027-ffe44d48efc2" />
+<img width="1728" height="1341" alt="image" src="https://github.com/user-attachments/assets/c42c834a-5a63-40ae-9718-2aa5194a3d4d" />
 
 
 ### Rapid Counting Mode
