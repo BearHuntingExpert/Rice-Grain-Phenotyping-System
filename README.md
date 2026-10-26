@@ -118,9 +118,6 @@ Rice-Grain-Phenotyping-System/
 ├── best.pt
 │   └── Trained lightweight rice grain detection model
 │
-├── Originalbest.pt
-│   └── Additional model weight file
-│
 ├── hnu_logo.png
 │   └── Logo resource used by the graphical user interface
 │
