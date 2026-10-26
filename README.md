@@ -127,6 +127,7 @@ The measurement results can be exported as CSV files for subsequent statistical 
 ```
 
 The executable application has been packaged as a standalone program. Therefore, users do not need to install Python, PyTorch, PySide6, Ultralytics, or other development dependencies to run the software.
+The standalone Windows executable is available from the Releases section of this repository.
 
 ---
 ## Software Requirements
