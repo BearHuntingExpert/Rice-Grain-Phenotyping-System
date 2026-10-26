@@ -110,31 +110,20 @@ The measurement results can be exported as CSV files for subsequent statistical 
 ## Repository Structure
 
 ```text
-Rice-Grain-Phenotyping-System/
 │
-├── High-Throughput Rice Grain Phenotyping System.exe
-│   └── Standalone desktop application
-│
+├── README.md
+├── LICENSE
 ├── best.pt
-│   └── Trained lightweight rice grain detection model
-│
 ├── hnu_logo.png
-│   └── Logo resource used by the graphical user interface
 │
-├── Example Image 1.jpg
-│   └── Example rice grain image for software demonstration
+├── examples/
+│   ├── Example Image 1.jpg
+│   └── Example Image 2.jpg
 │
-├── Example Image 2.jpg
-│   └── Example rice grain image for software demonstration
-│
-├── detected_grain.jpg
-│   └── Example detection result
-│
-├── results.csv
-│   └── Example exported phenotypic measurement results
-│
-└── results_crops/
-    └── Example individual grain images automatically extracted during CSV export
+└── example_outputs/
+    ├── detected_grain.jpg
+    ├── results.csv
+    └── results_crops.zip
 ```
 
 The executable application has been packaged as a standalone program. Therefore, users do not need to install Python, PyTorch, PySide6, Ultralytics, or other development dependencies to run the software.
